@@ -2,7 +2,7 @@
 
 Housing prices are influenced by various socio-economic and geographical factors. The Boston Housing Price Prediction project aims to develop a machine learning model that accurately predicts the median house prices in different areas of Boston. By analyzing these factors, we can understand the key drivers of real estate prices and help home buyers, sellers, and policymakers make informed decisions.
 
-Problem Statement
+Problem Statement: 
 The objective of this project is to build a regression model that can predict the Median Value of Owner-Occupied Homes (in $1000s) based on 14 different features describing the neighborhood and housing conditions.
 
 The dataset consists of 506 observations with 14 numerical attributes, including independent variables (features) and one dependent variable (target variable).
