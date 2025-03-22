@@ -1,0 +1,6 @@
+data:
+  dataset_path: "data/raw/boston_data.csv"
+processed_data:
+  processed_dataset_path : "data/processed/processed_boston_data.csv"
+model:
+  model_path : "models/boston_model.pkl"
